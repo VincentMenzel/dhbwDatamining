@@ -1,0 +1,317 @@
+Tab.0.59;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Erwerbslosenanteile als Prozentsatz der Erwerbsbevölkerung im Alter von 25 bis 64 Jahren nach ISCED-Bildungsbereichen und Staaten 1);;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;Unterhalb Sekundarbereich II;Unterhalb Sekundarbereich II;Unterhalb Sekundarbereich II;Unterhalb Sekundarbereich II;Unterhalb Sekundarbereich II;Sekundarbereich II/ Post-sekundarer, nicht-tertiärer Bereich;Sekundarbereich II/ Post-sekundarer, nicht-tertiärer Bereich;Tertiärbereich;Tertiärbereich;Tertiärbereich;Tertiärbereich;;
+;;ISCED 0: Unterhalb Primarbereich;ISCED 1: Primarbereich;ISCED 2: Teilabschluss Sekundarbereich I;ISCED 2: Sekundarbereich I;ISCED 3: Teilabschluss Sekundarbereich II;ISCED 3: Sekundarbereich II;ISCED 4: Post-sekundarer, nicht-tertiärer Bereich;ISCED 5: Kurzstudiengang;ISCED 6: Bachelor- oder gleichwertiger Abschluss;ISCED 7: Master- oder gleichwertiger Abschluss;ISCED 8: Promotion oder gleichwertiger Abschluss;Insgesamt
+Staat;Jahr;Anteile (%);Anteile (%);Anteile (%);Anteile (%);Anteile (%);Anteile (%);Anteile (%);Anteile (%);Anteile (%);Anteile (%);Anteile (%);Anteile (%)
+Australien;2014;y;11,4;a;7;a;4,6;4,2;4;2,7;3,9;m;4,5
+Australien;2015;m;9,8;a;7,6;a;5;2,9;4,7;3,1;3,9;2;4,7
+Australien;2016;m;8,4;a;7,3;a;4,7;3,4;3,7;3,1;3,2;c;4,4
+Australien;2017;m;10,7;a;6,3;a;4,2;3,5;3,9;2,9;4,8;c;4,2
+Australien;2018;0;8,2;a;6,8;a;4,4;4,8;4,1;2,8;4,3;c;4,2
+Australien;2019;0;6,7;a;5,8;a;4,1;4,1;3,5;2,8;3;m;3,7
+Belgien;2014;22,6;14,9;a;12,9;a;7,4;4,9;4,4;4;4,3;4,9;7,3
+Belgien;2015;22,8;17,7;a;12,9;a;7,6;4,6;c;3,9;4,4;3,6;7,4
+Belgien;2016;21;17,8;a;12,9;a;7,1;4;8;3,5;3,9;3,4;6,9
+Belgien;2017;22,7;16,4;a;11,1;a;6,3;1,9;2,6;3,9;3,9;3;6,2
+Belgien;2018;20,5;15,4;a;10,1;a;5,2;2,9;2,8;2,7;3,6;5,1;5,2
+Belgien;2019;15,4;12,6;a;9,4;a;4,7;2,9;3,8;2,8;3;2,7;4,6
+Chile;2014;m;m;m;m;m;m;m;m;m;m;m;m
+Chile;2015;5,6;4,9;a;6,1;a;6,4;a;5,4;5,2;1,3;y;5,9
+Chile;2016;m;m;m;m;m;m;m;m;m;m;m;m
+Chile;2017;6,8;5,7;a;6,3;a;7;a;5,6;6;2;y;6,4
+Chile;2018;m;m;m;m;m;m;m;m;m;m;m;m
+Chile;2019;m;m;m;m;m;m;m;m;m;m;m;m
+Costa Rica;2014;8,3;6,6;7,4;7,5;6,1;6,8;c;6;4,4;c;y;6,4
+Costa Rica;2015;9;7,1;6,8;6,7;9,2;7,7;c;8,9;5,3;c;y;7
+Costa Rica;2016;9,6;7,3;8,5;7,4;10,6;6,3;c;6,5;4,6;c;y;6,9
+Costa Rica;2017;9;6,1;9,2;5,9;5,7;7,3;c;9,2;4,5;c;y;6,6
+Costa Rica;2018;10,2;7;7,3;6,3;7,5;9,2;c;9,4;5;c;y;7,3
+Costa Rica;2019;11,6;8,7;10,4;9,1;10,5;8,8;c;9,6;5,5;c;c;8,5
+Dänemark;2014;y;9,9;a;7,9;a;5,2;2,1;4,8;4;5;2,4;5,4
+Dänemark;2015;y;11,3;a;8,1;a;4,7;2,3;4,7;4,2;5,7;3,9;5,3
+Dänemark;2016;y;9,4;a;6,5;a;4,4;1,9;4,3;4,2;5,2;3,7;4,8
+Dänemark;2017;y;8,6;a;6,6;a;4;1,5;5;4,1;4,9;2,3;4,6
+Dänemark;2018;y;7,9;a;6,5;a;3,5;3,1;4,7;3,7;4,5;1,8;4,2
+Dänemark;2019;y;7,2;a;6,1;a;3,5;1,7;3,6;3,8;4,7;2,4;4,2
+Deutschland;2014;y;16;a;11;a;5;2,9;c;2,4;2,8;1,9;4,8
+Deutschland;2015;y;14,6;a;10,5;a;4,6;2,8;c;2,2;2,7;1,4;4,4
+Deutschland;2016;y;13,7;a;9;a;4;2,5;c;2;2,5;2,2;3,9
+Deutschland;2017;y;12,1;a;8,3;a;3,6;2,1;c;1,9;2,1;1,3;3,5
+Deutschland;2018;y;11,5;a;7,7;a;3,1;1,9;c;1,7;2,2;1,3;3,1
+Deutschland;2019;y;10,3;a;7;a;2,9;1,8;c;1,6;2,1;1,6;2,9
+Estland;2014;c;12,3;a;11,5;a;7,6;7,7;5,7;5;4,3;m;6,8
+Estland;2015;m;23,4;a;11,3;a;5,9;6,9;4,8;4,3;3,3;m;5,6
+Estland;2016;m;22,8;a;11;a;7,6;7,5;4,4;3,2;3,9;m;6,4
+Estland;2017;m;12,3;a;9,9;a;6;6,8;5,3;3,2;2,8;c;5,3
+Estland;2018;m;14,4;a;8,3;a;5,2;5,4;4,6;4,3;3;c;4,8
+Estland;2019;m;16,2;a;7,7;a;4,6;4,3;2,6;2,8;2,6;c;4
+Finnland;2014;y;13,9;a;12,1;a;8,2;1,3;4,5;5,9;4,8;3,5;7,1
+Finnland;2015;y;14,2;a;11,6;a;8,3;1,1;6;6,7;6,4;6,9;7,7
+Finnland;2016;y;12,5;a;11,6;a;8,5;3,3;4,2;6,3;5,1;8,6;7,3
+Finnland;2017;y;11,5;a;13,2;a;8,2;m;5,1;5,5;4,6;m;6,9
+Finnland;2018;y;15;a;11,9;a;7,3;m;4,8;4,1;4,1;m;6,1
+Finnland;2019;y;7,1;a;11;a;6,5;m;3,2;4,8;3,6;m;5,4
+Frankreich;2014;11,9;15,3;a;13,7;a;8,8;c;5,3;6,3;5,9;5,3;8,6
+Frankreich;2015;18,1;16,5;a;15,1;a;9,1;13,4;5,5;6,3;5,4;5,5;8,9
+Frankreich;2016;19,6;17,1;a;15,2;a;9;18,9;4,9;5,7;4,8;4,8;8,6
+Frankreich;2017;17,1;16,5;a;14,4;a;8,5;12,9;4,8;5;4,5;3,8;8,1
+Frankreich;2018;17,6;14,9;a;13,8;a;8,2;15;5;5,2;5;4,2;7,9
+Frankreich;2019;13,7;13,9;a;13,3;a;7,9;5,7;4,4;5,2;4,6;3,6;7,3
+Griechenland;2014;40,5;25,7;24,5;29;44;26,9;30,1;2,8;20,8;15,4;6,7;24,9
+Griechenland;2015;46,9;24,6;22,8;26,9;37,5;25,1;26,7;2,6;20,7;14,8;4,5;23,6
+Griechenland;2016;36,4;25,2;24;26,7;29,9;23,6;26,1;2,2;18,8;12,5;7,1;22,3
+Griechenland;2017;43,5;22,8;30,4;24;22,2;21,5;24,6;0,7;17,2;11,2;8;20,4
+Griechenland;2018;44;21,7;25,1;21,3;25,3;19,4;23,3;0,7;15,1;11,1;3,6;18,3
+Griechenland;2019;40,4;21;19,8;19,6;15,4;18;21,3;0,9;12,8;10,5;6,4;16,5
+Irland 2);2014;31,7;21,5;a;17,4;a;10,8;13,8;7,1;6;5;2,6;10,3
+Irland 2);2015;19,4;18,6;a;14,7;a;9,6;10,5;6,2;5,1;4;1,9;8,5
+Irland 2);2016;m;m;m;m;m;m;m;m;m;m;m;m
+Irland 2);2017;21,8;14,1;a;9,7;a;6,7;7,5;5,7;3,4;2,8;2,7;5,8
+Irland 2);2018;m;12,2;a;6,8;a;5;5,8;3,9;3,6;3,3;2,6;4,7
+Irland 2);2019;c;8,4;a;5,9;a;4;5,4;3,9;2,8;2,7;1,4;3,9
+Island;2014;y;m;a;4,8;a;4,3;2,3;4,5;3,5;3,8;c;4,1
+Island;2015;y;m;a;4;a;3,2;2,1;1,7;3,1;2,8;m;3,2
+Island;2016;y;m;a;2,8;a;3,3;2,2;3,1;1,9;1,2;c;2,4
+Island;2017;y;m;a;2,1;a;2,2;1,4;c;1,7;1,6;c;1,9
+Island;2018;y;m;a;2,8;a;2,1;1,6;c;2,4;1,7;c;2,1
+Island;2019;y;m;a;3,3;a;3,1;2,5;4,7;2,8;1,7;m;2,7
+Israel;2014;7;7,8;a;7,5;a;6,2;a;4,7;4,1;2,8;2,4;5,1
+Israel;2015;4,3;8,3;a;6,2;a;5,4;a;4,6;3,8;2,4;2,3;4,5
+Israel;2016;6,5;8;a;6,9;a;4,9;a;4;3,2;2,3;3;4,1
+Israel;2017;3,6;5,2;a;4,9;a;4,4;a;3,9;3,1;2,3;2,7;3,7
+Israel;2018;3,9;5,1;a;5,1;a;4,4;a;3,2;2,7;2,4;1,5;3,5
+Israel;2019;2,7;4,6;a;4,5;a;4;a;3,5;2,8;2,4;1,6;3,4
+Italien;2014;21,7;19,9;a;14,5;a;9,1;11,7;m;11,6;6,8;3,9;10,8
+Italien;2015;19,6;19,8;a;13,5;a;8,9;12;m;10,7;6;4;10,2
+Italien;2016;21,9;19,9;a;13,6;a;8,8;10,8;m;10,9;5,6;4,9;10,2
+Italien;2017;20;19,2;a;13,7;a;8,5;10,9;m;8,1;5,7;2,6;9,9
+Italien;2018;18,8;19,7;a;12,8;a;8,4;11,3;c;7,9;5,3;2,5;9,5
+Italien;2019;17,5;20,3;a;12,1;a;7,9;10,9;11,7;7,3;5,2;2,6;8,9
+Japan 3);2014;y;y;a;y;a;4,1;y;3,4;2,5;y;y;3,5
+Japan 3);2015;y;y;a;y;a;4,1;y;2,9;2,4;y;y;3,3
+Japan 3);2016;y;y;a;y;a;3,7;y;2,7;2,3;y;y;3,1
+Japan 3);2017;y;y;a;y;a;3,4;y;2,5;2;y;y;2,8
+Japan 3);2018;y;y;a;y;a;2,9;y;2,1;1,8;y;y;2,4
+Japan 3);2019;y;y;a;y;a;3;y;2,1;1,7;y;y;2,4
+Kanada;2014;y;11,8;a;10,2;a;6,7;6,2;4,8;4,7;4,8;y;5,8
+Kanada;2015;y;10,4;a;10,4;a;7;6,5;4,8;4,4;5;y;5,9
+Kanada;2016;y;11,6;a;10,7;a;7,1;6,9;5,1;4,6;4,9;y;6
+Kanada;2017;y;9,8;a;9,9;a;6,3;6,5;4,9;4,3;4,2;y;5,5
+Kanada;2018;y;9,9;a;8,6;a;5,8;5,9;4,3;4,1;4,2;y;5
+Kanada;2019;y;8,9;a;8,6;a;6;5,3;4,1;3,9;4;y;4,8
+Kolumbien;2014;y;y;a;6,2;y;8,4;y;y;7,4;y;y;7,2
+Kolumbien;2015;y;y;a;5,9;7,2;8,2;y;y;7,8;y;y;7,1
+Kolumbien;2016;y;y;a;5,6;7,4;8,4;y;y;9,1;y;y;7,4
+Kolumbien;2017;y;y;a;5,8;8,3;9,1;y;y;8,6;y;y;7,7
+Kolumbien;2018;y;y;a;5,8;8,4;8,9;y;y;9,1;y;y;7,8
+Kolumbien;2019;y;y;a;7;9,6;9,7;y;y;9,3;y;y;8,6
+Korea;2014;y;2,8;a;2,6;a;3,3;a;3,3;3;y;y;3,1
+Korea;2015;y;3;a;2,5;a;3,3;a;3,4;3,1;y;y;3,2
+Korea;2016;y;2,8;a;2,7;a;3,4;a;3,3;3,3;y;y;3,3
+Korea;2017;y;2,6;a;2,9;a;3,1;a;3,8;3,4;y;y;3,3
+Korea;2018;m;3,1;a;3,3;a;3,6;a;3,6;3,6;2;y;3,5
+Korea;2019;m;3,8;a;4;a;3,5;a;3,3;3,3;1,9;y;3,4
+Lettland 2);2014;c;48,5;a;22,7;16,8;11,3;9,2;5,8;6,2;3,5;c;10,3
+Lettland 2);2015;c;c;a;22,3;9,4;10,8;10,3;4,2;5,6;3,1;m;9,5
+Lettland 2);2016;c;c;a;19,9;11;11,5;9,5;3,8;4,5;3,4;m;9,3
+Lettland 2);2017;c;24,6;a;17,7;8,3;10,2;8,6;6,4;4;2,4;m;8,2
+Lettland 2);2018;c;25,4;a;16,2;8,4;8,6;7,1;4,3;4,3;2,9;c;7,3
+Lettland 2);2019;c;16,1;a;13,2;4,6;7;7,1;5,9;4,3;2,5;c;6,1
+Litauen;2014;c;c;m;27,3;15,7;15;10,2;a;4,6;2,3;c;10,1
+Litauen;2015;c;c;m;25,1;16,6;12,9;8,8;a;4;2;m;8,6
+Litauen;2016;c;c;c;25,5;22;11,3;6,9;a;3,3;1,9;m;7,5
+Litauen;2017;c;c;c;21;14,3;10,4;7;a;3,1;2,1;c;6,8
+Litauen;2018;c;c;c;17,6;8,4;8,5;7,1;a;3;1,9;c;5,9
+Litauen;2019;m;c;c;18;12,7;9;6,2;a;3,1;2,6;c;6
+Luxemburg 2);2014;c;9,7;a;6,4;a;4,9;c;4,9;3,5;3,2;c;4,7
+Luxemburg 2);2015;28,2;8,4;a;7,9;a;5,6;2,9;5;4,6;4,4;4,3;5,7
+Luxemburg 2);2016;y;c;a;7,6;a;6;c;c;3,5;4;c;5
+Luxemburg 2);2017;c;7,3;a;5,6;a;4,9;c;c;5,3;3,4;c;4,6
+Luxemburg 2);2018;m;8;a;5,9;a;4,4;c;c;5,8;3,3;c;4,6
+Luxemburg 2);2019;m;c;a;5,8;a;5,7;c;c;5,2;3,3;c;4,5
+Mexiko;2014;2,6;3;4,8;3,9;4,6;4,5;a;5,4;5;2,7;c;3,9
+Mexiko;2015;2,3;2,7;3,9;3,4;4,3;4,2;a;3,6;4,5;2;c;3,5
+Mexiko;2016;1,8;2,3;3,3;2,9;3,8;3,8;a;4,1;4,6;2,2;c;3,2
+Mexiko;2017;1,6;2;3,5;2,6;3,4;3,2;a;3,3;4;1,9;c;2,8
+Mexiko;2018;1,6;1,8;2,9;2,3;3,5;3,1;a;3,3;3,8;2,4;c;2,7
+Mexiko;2019;1,7;1,9;3,2;2,5;3,9;3,1;a;2,6;4,2;2,7;c;2,9
+Neuseeland;2014;y;y;a;5,2;a;5,2;3,5;3,7;2,4;3;3,8;4
+Neuseeland;2015;y;y;a;6,2;a;5,1;4,3;3,1;2,4;4,1;c;4,4
+Neuseeland;2016;y;y;a;5,4;a;4,3;3,2;2,3;2,6;3,4;1,4;3,7
+Neuseeland;2017;y;y;a;5;a;3,9;3,5;2,4;2;2,8;1,7;3,3
+Neuseeland;2018;y;y;a;4,6;a;3,4;2,8;2,2;2,2;2,8;1,9;3,1
+Neuseeland;2019;y;y;a;4,6;a;3;2,7;2,1;2,2;2,1;1,5;2,9
+Niederlande;2014;18,2;11,1;a;9,4;a;7,1;5,7;4,6;4;3,6;2,3;6,4
+Niederlande;2015;17,5;10,3;a;8,5;a;6,8;c;4,3;3,9;3,5;c;6,1
+Niederlande;2016;11,5;8,5;a;7,2;a;5,7;c;4,3;3,5;3;c;5,1
+Niederlande;2017;10,5;7,6;a;6,1;a;4,4;c;3;3;2,4;c;4,1
+Niederlande;2018;11;6,1;a;4,5;a;3,3;c;2,7;2,3;2,2;c;3,2
+Niederlande;2019;6,6;5,1;a;3,8;a;2,8;c;c;2,1;2,1;c;2,7
+Norwegen 2);2014;m;7,1;a;6,7;a;2,4;3;3,3;1,2;1,8;c;2,8
+Norwegen 2);2015;20;12,9;a;7,5;a;3,3;4,4;4,2;1,6;2,6;m;3,6
+Norwegen 2);2016;17,6;14,3;a;7,3;a;3,5;2,3;4,7;1,8;3;5,5;3,8
+Norwegen 2);2017;25;17,2;a;7,1;a;3,1;2,7;3,5;1,5;2,3;2,7;3,3
+Norwegen 2);2018;m;13,3;a;6,3;a;3;1,6;4;1,3;1,8;4,2;3,1
+Norwegen 2);2019;c;17,7;a;5,6;a;2,8;c;3,5;1,3;1,9;3,3;2,8
+Österreich;2014;y;23,1;a;10,2;a;4,6;1,8;3,5;6,5;3,4;5,7;5
+Österreich;2015;y;22;a;10,2;a;5,1;1,9;3,3;5,5;3,3;5,7;5,1
+Österreich;2016;y;22,6;a;11,3;a;5,4;1,7;3;5,4;3,5;3,8;5,4
+Österreich;2017;y;32,9;a;11,7;a;4,9;1,9;2,5;5,3;3;2,5;5
+Österreich;2018;y;25,3;a;10,2;a;4;1,6;2,5;4,8;3,1;2,1;4,3
+Österreich;2019;y;20,8;a;9,4;a;3,7;2,1;2,4;5,1;2,7;2,6;4
+Polen;2014;m;17;a;28,6;a;8,7;7,8;m;6;3,7;0,9;7,7
+Polen;2015;m;14,6;a;26,7;a;7,2;6,8;c;5,5;3;c;6,4
+Polen;2016;m;12,3;a;17,6;a;5,8;5,3;m;4,3;2,7;m;5,2
+Polen;2017;c;10,5;a;14,1;a;4,7;3,8;m;3,1;2;m;4,1
+Polen;2018;m;8,5;a;15,1;a;3,7;3,5;m;2,8;1,5;c;3,2
+Polen;2019;m;7,6;a;12;a;2,9;3,4;m;2,4;1,7;m;2,8
+Portugal;2014;23,8;14,5;a;14,5;a;12,5;16,8;a;14,1;7,7;c;12,8
+Portugal;2015;22,5;13,3;a;12,2;a;11,5;c;a;12,4;7,3;c;11,4
+Portugal;2016;21,2;12,1;a;10,3;a;10,5;c;0;10,8;6,6;c;10,2
+Portugal;2017;16,5;9,2;a;9;a;8;c;c;7,8;5,1;c;8
+Portugal;2018;12,5;6,8;a;6,7;a;6,5;c;c;7,2;3,9;c;6,2
+Portugal;2019;13,8;6,7;a;5,8;a;5,8;c;c;6,8;4,1;c;5,8
+Schweden;2014;y;26,2;a;11,7;8,8;4,6;6,1;5,7;3,8;3,3;2,3;5,8
+Schweden;2015;y;30,7;a;11,1;7,5;4,5;5,2;5,8;3,7;3,1;2,8;5,7
+Schweden;2016;y;33,1;a;10,8;7,5;4,1;5,2;5,6;3,3;3,2;2,8;5,4
+Schweden;2017;y;31,9;a;11,4;5,9;3,7;4,9;5,6;3,5;3,2;3,7;5,3
+Schweden;2018;y;35,9;a;11,1;6,6;3,1;4,4;5,1;3,2;2,9;3,6;5
+Schweden;2019;y;32,3;a;12,5;6;3,5;5,3;5,7;3,1;2,4;4,5;5,1
+Schweiz;2014;10,2;6;a;9,8;a;4,1;y;y;3;4,1;2,3;4,4
+Schweiz;2015;11,9;9,5;a;9,2;a;3,9;y;y;3,2;3,9;2,4;4,3
+Schweiz;2016;19,3;9,9;a;9,6;a;4,4;y;y;3,2;3,6;2,4;4,5
+Schweiz;2017;11,2;8,4;a;8,5;a;4,2;y;y;3,5;4,3;2,8;4,5
+Schweiz;2018;17,6;8,9;a;8,2;a;4,4;y;y;3,5;3,7;2,5;4,4
+Schweiz;2019;13,2;9,4;a;7,6;a;4;y;y;2,8;3,9;3;4
+Slowakei;2014;c;49,8;16,8;42,7;c;11,4;6;c;7,5;5,5;c;11,8
+Slowakei;2015;m;37,4;y;34,4;c;10;5,5;c;7;5,5;c;10,3
+Slowakei;2016;m;c;y;29,1;c;8,4;6,3;c;6,1;5;c;8,7
+Slowakei;2017;c;c;y;27,1;c;7,1;4,1;m;3,7;3,8;c;7,3
+Slowakei;2018;c;c;c;28,4;c;5,5;2,6;m;2,8;2,9;c;6
+Slowakei;2019;m;32,6;c;29,3;m;4,4;3,5;m;3,1;2,2;c;5,2
+Slowenien 2);2014;m;22,4;a;15,1;a;9,7;a;4,9;9,4;5,6;2,6;9,1
+Slowenien 2);2015;m;8,7;a;13,8;a;9,4;a;6,3;6;5,8;3,4;8,5
+Slowenien 2);2016;m;25,7;a;13,7;a;7,6;a;5,6;6,1;6,2;6,2;7,6
+Slowenien 2);2017;m;11,3;a;12,2;a;7,5;a;6,9;4,4;5,4;4,4;7,1
+Slowenien 2);2018;c;17,1;a;8,6;a;5,3;a;4,2;3,5;3,5;2,9;4,9
+Slowenien 2);2019;c;c;a;9,2;a;4,4;a;3,5;3,3;2,8;2,4;4,2
+Spanien 2);2014;47,7;36,6;a;29;a;21,6;27,9;17;12,9;12,4;8,2;22,4
+Spanien 2);2015;43,4;35;a;26,6;a;19,2;28,5;15,1;11,6;11,2;4,9;20,3
+Spanien 2);2016;39,6;32,4;a;23,9;a;17;c;13,8;10,4;9,4;5,4;18
+Spanien 2);2017;37,1;28,8;a;21,5;a;15,1;c;11,6;9,7;7,7;4,5;15,8
+Spanien 2);2018;35,8;25,5;a;18,8;a;13,8;c;10,4;8,5;7,2;3,8;14
+Spanien 2);2019;31,3;24,6;a;17,3;a;12,7;c;10,2;8;6,8;3,3;12,9
+Tschechien 2);2014;m;c;a;20,7;a;5,4;y;c;3,8;2,3;c;5,5
+Tschechien 2);2015;m;m;a;20,8;a;4,4;y;1,4;3,1;2;1,2;4,6
+Tschechien 2);2016;11,6;c;a;19,2;a;3,2;y;m;2,2;1,8;0,6;3,6
+Tschechien 2);2017;32,3;c;a;11,8;a;2,5;y;0,6;1,8;1,3;0,2;2,6
+Tschechien 2);2018;m;c;a;9,3;a;1,9;y;m;1,5;1,1;0,4;2
+Tschechien 2);2019;m;m;a;10,1;a;1,6;y;2,8;1,3;0,9;0,6;1,9
+Türkei;2014;11,1;8;a;9,5;a;9,1;a;10;8,1;4,6;1;8,6
+Türkei;2015;11,6;8,4;a;10,5;a;9,2;a;10,3;8,3;5,5;0,9;8,9
+Türkei;2016;11,6;8,7;a;10,6;a;10,1;a;11;9,5;6,4;2,9;9,5
+Türkei;2017;11,2;8,3;a;10,3;a;9,7;a;11,1;9,8;5,4;2,9;9,3
+Türkei;2018;10,7;8,7;a;10,3;a;9,4;a;11,4;10,1;5,7;2,1;9,5
+Türkei;2019;15,1;11,2;a;14,5;a;11,9;a;12,4;10,9;6,9;3,7;11,8
+Ungarn 2);2014;c;29,2;a;16,2;a;6,7;5,2;4,5;3,1;2;c;6,7
+Ungarn 2);2015;26,3;26,7;a;15;a;6;4,2;4,2;2,3;1,9;c;6
+Ungarn 2);2016;19,3;22;a;11,3;a;4,4;3,3;1,4;1,6;1,9;c;4,5
+Ungarn 2);2017;19,5;23,7;a;9,5;a;3,5;2,1;1,6;1,7;1,2;c;3,7
+Ungarn 2);2018;19,6;18,8;a;8,3;a;3,2;2,1;1,3;1,5;1,3;c;3,2
+Ungarn 2);2019;m;14,2;18,2;7,6;a;2,6;1,9;3,5;1,1;1,5;c;2,8
+Vereinigtes Königreich 3);2014;c;9,7;a;7,7;4,8;3,2;a;2,6;2,7;2,1;2,2;3,9
+Vereinigtes Königreich 3);2015;m;4,9;a;6,8;4,5;3,2;a;2,8;2,5;2,6;1,9;3,7
+Vereinigtes Königreich 3);2016;m;4,5;a;6,4;4;3,2;a;3,1;2,5;2,3;2,9;3,5
+Vereinigtes Königreich 3);2017;m;5;a;5,7;3,6;2,8;a;2,5;2,2;2,4;1,6;3,1
+Vereinigtes Königreich 3);2018;c;c;a;4,9;3,8;2,6;a;2,2;2,2;2,2;1,9;3
+Vereinigtes Königreich 3);2019;c;c;a;4,9;3,1;2,5;a;2,7;2;1,8;2,2;2,8
+Vereinigte Staaten;2014;7,3;7,5;a;12,5;a;7,2;y;4,9;3,9;2,6;2,3;5,8
+Vereinigte Staaten;2015;9,4;6,5;a;10,4;a;6;y;3,7;2,7;2;1,9;4,7
+Vereinigte Staaten;2016;4,7;5,5;a;9,8;a;5,7;y;3,5;2,7;2,1;1,7;4,4
+Vereinigte Staaten;2017;5,4;6,9;a;9,2;a;4,8;y;3,2;2,6;2;1,4;3,9
+Vereinigte Staaten;2018;4,1;5,8;a;7,3;a;4,6;y;2,7;2,4;1,8;1,8;3,5
+Vereinigte Staaten;2019;5,2;4,3;a;7,7;a;4;y;2,9;2,1;1,7;1;3,2
+OECD-Durchschnitt 4);2014;m;16,7;m;13,5;m;7,9;8,3;5,2;5,7;4,5;m;7,5
+OECD-Durchschnitt 4);2015;m;14,7;m;12,5;m;7,4;7,6;5;5,3;4,3;m;7
+OECD-Durchschnitt 4);2016;m;14,5;m;11,7;m;7;m;4,5;5;4,1;m;6,6
+OECD-Durchschnitt 4);2017;m;13,2;m;10,3;m;6,3;m;4,5;4,5;3,6;m;5,9
+OECD-Durchschnitt 4);2018;m;13,2;m;9,5;m;5,6;m;4,2;4,2;3,4;m;5,4
+OECD-Durchschnitt 4);2019;m;12,6;m;9,3;m;5,4;m;4,5;4,1;3,2;m;5,1
+EU23-Durchschnitt 4)5);2014;m;m;m;m;m;m;m;m;m;m;m;m
+EU23-Durchschnitt 4)5);2015;m;18,6;m;15,5;m;8,5;8,6;5,1;6,3;5;3,7;8,4
+EU23-Durchschnitt 4)5);2016;m;18,3;m;14;m;7,9;7,6;4,6;5,7;4,6;m;7,7
+EU23-Durchschnitt 4)5);2017;m;16,3;m;12,5;m;6,9;6,7;4,4;4,9;3,9;m;6,8
+EU23-Durchschnitt 4)5);2018;m;16,3;m;11,5;m;6,1;6,5;3,9;4,4;3,6;m;5,9
+EU23-Durchschnitt 4)5);2019;m;15,4;m;10,9;m;5,6;5,6;4,4;4,1;3,3;m;5,4
+Argentinien;2014;5,2;6;a;6,9;a;5,8;a;y;3;y;y;5,3
+Argentinien;2015;m;m;m;m;m;m;m;m;m;m;m;m
+Argentinien;2016;m;m;m;m;m;m;m;m;m;m;m;m
+Argentinien;2017;8,7;8,2;a;8;a;5,9;a;y;3;y;y;6
+Argentinien;2018;8,5;8,5;8,5;7,3;9,3;6,5;a;6,6;4,5;c;m;6,6
+Argentinien;2019;m;m;m;m;m;m;m;m;m;m;m;m
+Brasilien;2014;3,3;4,5;a;5,3;a;5,7;a;y;3,5;m;m;4,7
+Brasilien;2015;5,1;6,5;a;8;a;8,2;a;y;4,6;y;y;6,8
+Brasilien;2016;7,9;8,7;a;9,4;a;9,5;a;y;5,5;1,7;c;8,3
+Brasilien;2017;9,7;10;a;11;a;10;a;y;6,3;3,6;1,6;9,3
+Brasilien;2018;9,9;9,6;a;9,8;a;10;a;y;5,7;4,1;1,9;8,9
+Brasilien;2019;m;m;m;m;m;m;m;m;m;m;m;m
+China;2014;m;m;m;m;m;m;m;m;m;m;m;m
+China;2015;m;m;m;m;m;m;m;m;m;m;m;m
+China;2016;m;m;m;m;m;m;m;m;m;m;m;m
+China;2017;m;m;m;m;m;m;m;m;m;m;m;m
+China;2018;m;m;m;m;m;m;m;m;m;m;m;m
+China;2019;m;m;m;m;m;m;m;m;m;m;m;m
+Indien;2014;m;m;m;m;m;m;m;m;m;m;m;m
+Indien;2015;m;m;m;m;m;m;m;m;m;m;m;m
+Indien;2016;m;m;m;m;m;m;m;m;m;m;m;m
+Indien;2017;m;m;m;m;m;m;m;m;m;m;m;m
+Indien;2018;m;m;m;m;m;m;m;m;m;m;m;m
+Indien;2019;m;m;m;m;m;m;m;m;m;m;m;m
+Indonesien;2014;0,8;1,1;a;2,1;a;2,8;m;3,1;3,2;0,4;m;1,8
+Indonesien;2015;1;1,3;a;2,2;a;3,5;m;3,8;3,2;1,2;m;2,2
+Indonesien;2016;1,1;1,4;a;2,4;a;3;m;3,3;3,1;0,8;m;2,2
+Indonesien;2017;1;1,6;a;2,2;a;3;m;3;2,9;0,3;m;2,1
+Indonesien;2018;m;m;m;m;m;m;m;m;m;m;m;m
+Indonesien;2019;m;m;m;m;m;m;m;m;m;m;m;m
+Russische Föderation;2014;y;17,9;a;12,2;a;7,2;5,6;3,7;3,6;2,6;2,3;4,9
+Russische Föderation;2015;y;19,4;a;12,7;a;7,4;5,9;4,2;4,1;2,9;1,9;5,2
+Russische Föderation;2016;y;19,8;a;12,9;a;7,6;6;4,1;3,8;3;2,6;5,2
+Russische Föderation;2017;y;19,6;a;11,1;a;7;5;3,5;4,2;2,6;2,9;4,4
+Russische Föderation;2018;y;18;a;10,9;a;6,4;4,5;3,1;4,2;2,3;1,7;4
+Russische Föderation;2019;m;m;m;m;m;m;m;m;m;m;m;m
+Saudi-Arabien;2014;0,2;0,6;a;1,1;a;4,1;a;y;7,7;y;y;3,8
+Saudi-Arabien;2015;m;m;m;m;m;m;m;m;m;m;m;m
+Saudi-Arabien;2016;c;0,1;a;0,6;a;0,9;14,3;y;9;y;y;4,3
+Saudi-Arabien;2017;m;m;m;m;m;m;m;m;m;m;m;m
+Saudi-Arabien;2018;m;m;m;m;m;m;m;m;m;m;m;m
+Saudi-Arabien;2019;m;m;m;m;m;m;m;m;m;m;m;m
+Südafrika;2014;y;21,9;a;26,2;a;24,4;11,9;7;5,6;2,8;y;21,5
+Südafrika;2015;y;21,5;a;27,1;a;24,9;13,4;7,6;4,8;4;y;21,9
+Südafrika;2016;y;22,2;a;28,7;a;26,1;13,9;5,6;5,9;5,5;y;23,1
+Südafrika;2017;y;24,5;a;29,6;a;27;15,8;7,9;6,3;4;y;24
+Südafrika;2018;y;23,7;a;27,1;a;27,5;14,2;8;6,4;3,2;y;23,9
+Südafrika;2019;m;m;m;m;m;m;m;m;m;m;m;m
+;;;;;;;;;;;;;
+Quelle: OECD, OECD.Stat - EAG-Datenbank;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Anmerkungen:;;;;;;;;;;;;;
+1) Abgegrenzt nach der ISCED-Gliederung: International Standard Classification for Education 2011. Staaten mit abweichender Differenzierung nach ISCED 1997 siehe Quelle.;;;;;;;;;;;;;
+2) Werte sind teilweise unterhalb einer gewissen Zuverlässigkeitsschwelle und sollten mit Vorsicht interpretiert werden (siehe Quelle).;;;;;;;;;;;;;
+3) Referenzjahr 2016: Kurzstudiengang enthält Programme des Sekundarbereichs II und des post-sekundaren, nicht-tertiären Bereichs.;;;;;;;;;;;;;
+4) Die Kategorien OECD-Durchschnitt und EU23-Durchschnitt geben den im jeweiligen Referenzjahr gültigen Stand der OECD- bzw. EU-Mitgliedschaft der Staaten wieder.;;;;;;;;;;;;;
+5) Referenzjahre 2015 bis 2017: EU22-Durchschnitt.;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+a = Daten nicht verfügbar, weil Frage nicht zutrifft.;;;;;;;;;;;;;
+c = Zu wenige Beobachtungen, um verlässliche Werte anzugeben. Diese Daten wurden jedoch bei der Berechnung der länderübergreifenden Durchschnittswerte berücksichtigt.;;;;;;;;;;;;;
+m = Daten nicht verfügbar.;;;;;;;;;;;;;
+y = Daten an anderer Stelle enthalten.;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Auswertung aus der ICE-Datenbank des BMBF (ICE = Information, Controlling, Entscheidung);;;;;;;;;;;;;
+Ein System des Deutschen Zentrums für Hochschul- und Wissenschaftsforschung (DZHW), http://www.dzhw.eu;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Letzte Aktualisierung: 11. November 2020;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Dieses Werk ist lizenziert unter einer Datenlizenz Deutschland Namensnennung nicht kommerziell 1.0.;;;;;;;;;;;;;
+(https://www.govdata.de/dl-de/by-nc-1-0);;;;;;;;;;;;;
